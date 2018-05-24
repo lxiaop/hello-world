@@ -8,6 +8,6 @@ __This is another bold text.__
 
 ~~This is mistaken text~~
 
-**This text is _extere,ely_inportant**
+**This text is _exteremely_ important**
 
 >Pardon my French
